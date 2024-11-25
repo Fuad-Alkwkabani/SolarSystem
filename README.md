@@ -98,6 +98,6 @@ Outer Planet: Yes
     <p>Asegúrate de tener las dependencias de Hamcrest configuradas en tu archivo <code>pom.xml</code> para ejecutar las pruebas correctamente.</p>
 
    <h3>Captura de la cobertura de tests</h3>
-    <img src="/Foto/Imagen pegada.png alt="Cobertura de Tests" />
+    <img src="/Foto/Imagen pegada.png"  alt="Cobertura de Tests" />
 
 <p><strong>Autor:</strong> FUAD AL KWKABANI  <a href="https://github.com/Fuad-Alkwkabani">GitHub</a>
